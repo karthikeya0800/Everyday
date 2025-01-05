@@ -1,3 +1,4 @@
+git pull
 while true; do
     echo $(date) >> "dates.txt"
     git add -A
