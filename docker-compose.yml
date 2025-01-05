@@ -1,0 +1,10 @@
+version: '3'
+services:
+  mycontainer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: update-date
+    command: bash -c "git config --global user.email 'karthikeya0800@gmail.com' && git config --global user.name 'Karthikeya' && git remote set-url origin git@github.com:karthikeya0800/Everyday.git && ssh-keygen -t ed25519 -C 'karthikeya0800@gmail.com' -f ~/.ssh/id_ed25519 -N '' && bash -l"
+    stdin_open: true
+    tty: true
