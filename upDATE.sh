@@ -4,5 +4,6 @@ while true; do
     git add -A
     git commit -m "date updated"
     git push origin main
+    echo "----------------------------------date updated-------------------------------------"
     sleep 10
 done
