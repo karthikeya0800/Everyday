@@ -1,6 +1,6 @@
 #!/bin/bash
 cd /home/karthikeya/Desktop/Projects/Everyday 
-echo $(date) >> "/home/karthikeya/Desktop/Projects/Everyday/dates.txt"
+echo $(date) >> "dates.txt"
 git pull origin main
 git add -A
 git commit -m "date updated"
