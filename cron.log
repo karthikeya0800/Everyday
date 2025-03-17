@@ -2092,3 +2092,10 @@ To https://github.com/karthikeya0800/Everyday.git
 From https://github.com/karthikeya0800/Everyday
  * branch            main       -> FETCH_HEAD
 Already up to date.
+[main 3f3d595] date updated
+ 2 files changed, 9 insertions(+)
+fatal: could not read Username for 'https://github.com': No such device or address
+--------------------------end of file--------------------------
+From https://github.com/karthikeya0800/Everyday
+ * branch            main       -> FETCH_HEAD
+Already up to date.
