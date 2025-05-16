@@ -4692,3 +4692,9 @@ To https://github.com/karthikeya0800/Everyday.git
 From https://github.com/karthikeya0800/Everyday
  * branch            main       -> FETCH_HEAD
 Already up to date.
+[main 46a82c5] date updated
+ 2 files changed, 9 insertions(+)
+To https://github.com/karthikeya0800/Everyday.git
+   cc20b9e..46a82c5  main -> main
+--------------------------end of file--------------------------
+fatal: unable to access 'https://github.com/karthikeya0800/Everyday.git/': Could not resolve host: github.com
