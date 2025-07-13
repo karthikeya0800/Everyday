@@ -7215,3 +7215,13 @@ To https://github.com/karthikeya0800/Everyday.git
 From https://github.com/karthikeya0800/Everyday
  * branch            main       -> FETCH_HEAD
 Already up to date.
+[main f1b9b06] date updated
+ 4 files changed, 49 insertions(+)
+ create mode 100644 headline.txt
+ create mode 100644 naukri.sh
+To https://github.com/karthikeya0800/Everyday.git
+   298d698..f1b9b06  main -> main
+--------------------------end of file--------------------------
+From https://github.com/karthikeya0800/Everyday
+ * branch            main       -> FETCH_HEAD
+Already up to date.
