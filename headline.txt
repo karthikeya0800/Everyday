@@ -1,0 +1,1 @@
+Software Engineer with 3+ years of experience in Python, React, and cloud-based web development. Specializes in building scalable backend services (FastAPI/NodeJS), modern frontends (React), and deploying optimized solutions on AWS.
