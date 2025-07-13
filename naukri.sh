@@ -31,4 +31,4 @@ curl 'https://www.naukri.com/cloudgateway-mynaukri/resman-aggregator-services/v1
   -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36' \
   -H 'x-http-method-override: PUT' \
   -H 'x-requested-with: XMLHttpRequest' \
-  --data-raw '{"profile":{"resumeHeadline":"'"$new_headline"'"},"profileId":"3a0bf38be7d564d4cfdaea70808e1911bec785d932e2c3ee113f03cb115cb3db"}'
+  --data-raw '{"profile":{"resumeHeadline":"'"new_headline"'"},"profileId":"3a0bf38be7d564d4cfdaea70808e1911bec785d932e2c3ee113f03cb115cb3db"}'
